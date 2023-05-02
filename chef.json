@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "img": "https://images.pexels.com/photos/3983708/pexels-photo-3983708.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "name": "John Doe",
+    "experience": "10 years",
+    "recipes": ["Recipe 1", "Recipe 2", "Recipe 3"],
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae ultrices risus. Sed euismod mi sit amet volutpat elementum."
+  },
+  {
+    "id": 2,
+    "img": "https://images.pexels.com/photos/9025069/pexels-photo-9025069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "name": "Jane Smith",
+    "experience": "5 years",
+    "recipes": ["Recipe 4", "Recipe 5", "Recipe 6"],
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae ultrices risus. Sed euismod mi sit amet volutpat elementum."
+  },
+  {
+    "id": 3,
+    "img": "https://images.pexels.com/photos/9025077/pexels-photo-9025077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "name": "Bob Johnson",
+    "experience": "15 years",
+    "recipes": ["Recipe 7", "Recipe 8", "Recipe 9"],
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae ultrices risus. Sed euismod mi sit amet volutpat elementum."
+  },
+  {
+    "id": 4,
+    "img": "https://images.pexels.com/photos/9025077/pexels-photo-9025077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "name": "Alice Lee",
+    "experience": "3 years",
+    "recipes": ["Recipe 10", "Recipe 11", "Recipe 12"],
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae ultrices risus. Sed euismod mi sit amet volutpat elementum."
+  },
+  {
+    "id": 5,
+    "img": "https://images.pexels.com/photos/12193822/pexels-photo-12193822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "name": "Mike Brown",
+    "experience": "7 years",
+    "recipes": ["Recipe 13", "Recipe 14", "Recipe 15"],
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae ultrices risus. Sed euismod mi sit amet volutpat elementum."
+  },
+  {
+    "id": 6,
+    "img": "https://images.pexels.com/photos/12193822/pexels-photo-12193822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "name": "Lisa Kim",
+    "experience": "2 years",
+    "recipes": ["Recipe 16", "Recipe 17", "Recipe 18"],
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae ultrices risus. Sed euismod mi sit amet volutpat elementum."
+  }
+]
