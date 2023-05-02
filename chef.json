@@ -4,7 +4,38 @@
     "img": "https://images.pexels.com/photos/3983708/pexels-photo-3983708.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "name": "John Doe",
     "experience": "10 years",
-    "recipes": ["Recipe 1", "Recipe 2", "Recipe 3"],
+    "recipes": [
+        {
+          "name": "Pesto pasta with cherry tomatoes",
+          "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
+          "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
+          "cooking_method":"Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+          "rating":4.6,
+
+          "ingredients": ["Pasta",
+          "Pesto Sauce",
+          "Cherry Tomatoes",
+          "Garlic",
+          "Parmesan Cheese"]
+        },
+        {
+          "name": "Grilled bruschetta with mozzarella and prosciutto",
+          "description": "Giovanni's take on this classic Italian appetizer features grilled bread topped with melted mozzarella cheese and crispy prosciutto.",
+          "image": "https://farm4.static.flickr.com/3582/5698166456_0c66a48c8d.jpg",
+          "rating":4.9,
+          "cooking_method":"Slice a baguette into 1/2 inch thick slices and brush with olive oil.Grill the bread slices for 1-2 minutes on each side until lightly toasted and grill marks appear...",
+          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+
+        },
+        {
+          "name": "Tiramisu",
+          "description": "Giovanni's version of this classic Italian dessert features layers of fluffy mascarpone cream, ladyfingers soaked in espresso, and a dusting of cocoa powder.",
+          "image": "https://www.dominosugar.com/sites/dominosugar_com/files/2022-08/Tiramisu-Crave_1570_Description_600x400.jpg",
+          "rating":4.2,
+          "cooking_method":"In a heatproof bowl, whisk together egg yolks and sugar until the mixture becomes pale and creamy. Place the bowl over a pot of simmering water and add milk to the bowl. Cook the mixture... ",
+          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+        }
+      ],
     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae ultrices risus. Sed euismod mi sit amet volutpat elementum."
   },
   {
@@ -12,7 +43,38 @@
     "img": "https://images.pexels.com/photos/9025069/pexels-photo-9025069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "name": "Jane Smith",
     "experience": "5 years",
-    "recipes": ["Recipe 4", "Recipe 5", "Recipe 6"],
+    "recipes": [
+        {
+          "name": "Pesto pasta with cherry tomatoes",
+          "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
+          "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
+          "cooking_method":"Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+          "rating":4.6,
+
+          "ingredients": ["Pasta",
+          "Pesto Sauce",
+          "Cherry Tomatoes",
+          "Garlic",
+          "Parmesan Cheese"]
+        },
+        {
+          "name": "Grilled bruschetta with mozzarella and prosciutto",
+          "description": "Giovanni's take on this classic Italian appetizer features grilled bread topped with melted mozzarella cheese and crispy prosciutto.",
+          "image": "https://farm4.static.flickr.com/3582/5698166456_0c66a48c8d.jpg",
+          "rating":4.9,
+          "cooking_method":"Slice a baguette into 1/2 inch thick slices and brush with olive oil.Grill the bread slices for 1-2 minutes on each side until lightly toasted and grill marks appear...",
+          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+
+        },
+        {
+          "name": "Tiramisu",
+          "description": "Giovanni's version of this classic Italian dessert features layers of fluffy mascarpone cream, ladyfingers soaked in espresso, and a dusting of cocoa powder.",
+          "image": "https://www.dominosugar.com/sites/dominosugar_com/files/2022-08/Tiramisu-Crave_1570_Description_600x400.jpg",
+          "rating":4.2,
+          "cooking_method":"In a heatproof bowl, whisk together egg yolks and sugar until the mixture becomes pale and creamy. Place the bowl over a pot of simmering water and add milk to the bowl. Cook the mixture... ",
+          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+        }
+      ],
     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae ultrices risus. Sed euismod mi sit amet volutpat elementum."
   },
   {
@@ -20,7 +82,38 @@
     "img": "https://images.pexels.com/photos/9025077/pexels-photo-9025077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "name": "Bob Johnson",
     "experience": "15 years",
-    "recipes": ["Recipe 7", "Recipe 8", "Recipe 9"],
+    "recipes": [
+        {
+          "name": "Pesto pasta with cherry tomatoes",
+          "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
+          "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
+          "cooking_method":"Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+          "rating":4.6,
+
+          "ingredients": ["Pasta",
+          "Pesto Sauce",
+          "Cherry Tomatoes",
+          "Garlic",
+          "Parmesan Cheese"]
+        },
+        {
+          "name": "Grilled bruschetta with mozzarella and prosciutto",
+          "description": "Giovanni's take on this classic Italian appetizer features grilled bread topped with melted mozzarella cheese and crispy prosciutto.",
+          "image": "https://farm4.static.flickr.com/3582/5698166456_0c66a48c8d.jpg",
+          "rating":4.9,
+          "cooking_method":"Slice a baguette into 1/2 inch thick slices and brush with olive oil.Grill the bread slices for 1-2 minutes on each side until lightly toasted and grill marks appear...",
+          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+
+        },
+        {
+          "name": "Tiramisu",
+          "description": "Giovanni's version of this classic Italian dessert features layers of fluffy mascarpone cream, ladyfingers soaked in espresso, and a dusting of cocoa powder.",
+          "image": "https://www.dominosugar.com/sites/dominosugar_com/files/2022-08/Tiramisu-Crave_1570_Description_600x400.jpg",
+          "rating":4.2,
+          "cooking_method":"In a heatproof bowl, whisk together egg yolks and sugar until the mixture becomes pale and creamy. Place the bowl over a pot of simmering water and add milk to the bowl. Cook the mixture... ",
+          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+        }
+      ],
     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae ultrices risus. Sed euismod mi sit amet volutpat elementum."
   },
   {
@@ -28,7 +121,38 @@
     "img": "https://images.pexels.com/photos/9025077/pexels-photo-9025077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "name": "Alice Lee",
     "experience": "3 years",
-    "recipes": ["Recipe 10", "Recipe 11", "Recipe 12"],
+    "recipes": [
+        {
+          "name": "Pesto pasta with cherry tomatoes",
+          "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
+          "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
+          "cooking_method":"Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+          "rating":4.6,
+
+          "ingredients": ["Pasta",
+          "Pesto Sauce",
+          "Cherry Tomatoes",
+          "Garlic",
+          "Parmesan Cheese"]
+        },
+        {
+          "name": "Grilled bruschetta with mozzarella and prosciutto",
+          "description": "Giovanni's take on this classic Italian appetizer features grilled bread topped with melted mozzarella cheese and crispy prosciutto.",
+          "image": "https://farm4.static.flickr.com/3582/5698166456_0c66a48c8d.jpg",
+          "rating":4.9,
+          "cooking_method":"Slice a baguette into 1/2 inch thick slices and brush with olive oil.Grill the bread slices for 1-2 minutes on each side until lightly toasted and grill marks appear...",
+          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+
+        },
+        {
+          "name": "Tiramisu",
+          "description": "Giovanni's version of this classic Italian dessert features layers of fluffy mascarpone cream, ladyfingers soaked in espresso, and a dusting of cocoa powder.",
+          "image": "https://www.dominosugar.com/sites/dominosugar_com/files/2022-08/Tiramisu-Crave_1570_Description_600x400.jpg",
+          "rating":4.2,
+          "cooking_method":"In a heatproof bowl, whisk together egg yolks and sugar until the mixture becomes pale and creamy. Place the bowl over a pot of simmering water and add milk to the bowl. Cook the mixture... ",
+          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+        }
+      ],
     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae ultrices risus. Sed euismod mi sit amet volutpat elementum."
   },
   {
@@ -36,7 +160,38 @@
     "img": "https://images.pexels.com/photos/12193822/pexels-photo-12193822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "name": "Mike Brown",
     "experience": "7 years",
-    "recipes": ["Recipe 13", "Recipe 14", "Recipe 15"],
+    "recipes": [
+        {
+          "name": "Pesto pasta with cherry tomatoes",
+          "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
+          "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
+          "cooking_method":"Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+          "rating":4.6,
+
+          "ingredients": ["Pasta",
+          "Pesto Sauce",
+          "Cherry Tomatoes",
+          "Garlic",
+          "Parmesan Cheese"]
+        },
+        {
+          "name": "Grilled bruschetta with mozzarella and prosciutto",
+          "description": "Giovanni's take on this classic Italian appetizer features grilled bread topped with melted mozzarella cheese and crispy prosciutto.",
+          "image": "https://farm4.static.flickr.com/3582/5698166456_0c66a48c8d.jpg",
+          "rating":4.9,
+          "cooking_method":"Slice a baguette into 1/2 inch thick slices and brush with olive oil.Grill the bread slices for 1-2 minutes on each side until lightly toasted and grill marks appear...",
+          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+
+        },
+        {
+          "name": "Tiramisu",
+          "description": "Giovanni's version of this classic Italian dessert features layers of fluffy mascarpone cream, ladyfingers soaked in espresso, and a dusting of cocoa powder.",
+          "image": "https://www.dominosugar.com/sites/dominosugar_com/files/2022-08/Tiramisu-Crave_1570_Description_600x400.jpg",
+          "rating":4.2,
+          "cooking_method":"In a heatproof bowl, whisk together egg yolks and sugar until the mixture becomes pale and creamy. Place the bowl over a pot of simmering water and add milk to the bowl. Cook the mixture... ",
+          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+        }
+      ],
     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae ultrices risus. Sed euismod mi sit amet volutpat elementum."
   },
   {
