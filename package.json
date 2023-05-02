@@ -1,13 +1,13 @@
 {
   "name": "b7a10-chef-recipe-hunter-server-side-ashfak-rahad",
   "version": "1.0.0",
-  "description": "",
+  "description": "A food blog is a website or online platform that focuses on all things related to food, including cooking, baking, recipe creation, food photography, and food culture. Food bloggers often share their personal experiences with food, including their favorite restaurants, travel experiences, and tips for shopping and cooking. The content of a food blog typically includes recipes, cooking tutorials, food-related news and events, restaurant reviews, and food-related product reviews. Food bloggers may also share their personal stories and experiences related to food, as well as their thoughts and opinions on food-related topics. The goal of a food blog is to inspire and educate readers about food, while also sharing the blogger's personal passion and creativity with food.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "My food blog",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
