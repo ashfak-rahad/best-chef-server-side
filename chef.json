@@ -6,34 +6,36 @@
     "experience": "10 years",
     "recipes": [
         {
-          "name": "Pesto pasta with cherry tomatoes",
-          "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
-          "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
-          "cooking_method":"Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+          "name": "Sushi",
+          "description": "Sushi is a traditional Japanese dish made with vinegared rice and various seafood, vegetables, or egg toppings. It is typically served with soy sauce, wasabi, and pickled ginger.",
+          "image": "https://images.pexels.com/photos/7245458/pexels-photo-7245458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "cooking_method":"Rinse the sushi rice and cook it with water in a rice cooker or on the stove.Mix rice vinegar, sugar, and salt to make the seasoning for the rice.Cut the seafood, vegetables, and egg into small pieces.Lay out a sheet of nori on a sushi mat, spread rice on top, and add toppings.Roll the sushi tightly with the mat and cut into bite-size pieces.",
           "rating":4.6,
 
-          "ingredients": ["Pasta",
-          "Pesto Sauce",
-          "Cherry Tomatoes",
-          "Garlic",
-          "Parmesan Cheese"]
+          "ingredients": ["Sushi rice",
+          "Rice vinegar",
+          "Sugar",
+          "Sugar",
+          "Nori sheets ",
+        "Fresh seafood",
+    "Vegetables"]
         },
         {
-          "name": "Grilled bruschetta with mozzarella and prosciutto",
-          "description": "Giovanni's take on this classic Italian appetizer features grilled bread topped with melted mozzarella cheese and crispy prosciutto.",
-          "image": "https://farm4.static.flickr.com/3582/5698166456_0c66a48c8d.jpg",
+          "name": "Ramen",
+          "description": "Ramen is a popular noodle soup dish that originated in Japan. It typically consists of wheat noodles in a flavorful broth, with toppings such as sliced pork, bamboo shoots, and soft-boiled eggs.",
+          "image": "https://images.pexels.com/photos/4224208/pexels-photo-4224208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "rating":4.9,
-          "cooking_method":"Slice a baguette into 1/2 inch thick slices and brush with olive oil.Grill the bread slices for 1-2 minutes on each side until lightly toasted and grill marks appear...",
-          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+          "cooking_method":"Cook the ramen noodles according to package instructions.Heat the broth in a pot and add soy sauce, mirin, and sake to taste.Cook the pork belly or sliced pork and bamboo shoots in the broth.Place the cooked noodles in a bowl and pour the broth over them.Top with soft-boiled eggs, nori sheets, and green onions. ",
+          "ingredients":[    "Ramen noodles",    "Chicken or pork broth",    "Soy sauce",    "Mirin (sweet rice wine)",    "Bamboo shoots"]
 
         },
         {
-          "name": "Tiramisu",
-          "description": "Giovanni's version of this classic Italian dessert features layers of fluffy mascarpone cream, ladyfingers soaked in espresso, and a dusting of cocoa powder.",
-          "image": "https://www.dominosugar.com/sites/dominosugar_com/files/2022-08/Tiramisu-Crave_1570_Description_600x400.jpg",
+          "name": "Tempura",
+          "description": " Tempura is a Japanese dish of battered and deep-fried seafood, vegetables, or other ingredients. The batter is light and crispy, and the dish is often served as an appetizer or side dish.",
+          "image": "https://images.pexels.com/photos/3345727/pexels-photo-3345727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "rating":4.2,
           "cooking_method":"In a heatproof bowl, whisk together egg yolks and sugar until the mixture becomes pale and creamy. Place the bowl over a pot of simmering water and add milk to the bowl. Cook the mixture... ",
-          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+          "ingredients":[    "Shrimp, fish, or vegetables ",    "Tempura flour or cornstarch",    "Cold water",    "Egg yolk",    "Vegetable oil for frying"]
         }
       ],
     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae ultrices risus. Sed euismod mi sit amet volutpat elementum."
@@ -45,34 +47,36 @@
     "experience": "5 years",
     "recipes": [
         {
-          "name": "Pesto pasta with cherry tomatoes",
-          "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
-          "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
-          "cooking_method":"Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+          "name": "Sushi",
+          "description": "Sushi is a traditional Japanese dish made with vinegared rice and various seafood, vegetables, or egg toppings. It is typically served with soy sauce, wasabi, and pickled ginger.",
+          "image": "https://images.pexels.com/photos/7245458/pexels-photo-7245458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "cooking_method":"Rinse the sushi rice and cook it with water in a rice cooker or on the stove.Mix rice vinegar, sugar, and salt to make the seasoning for the rice.Cut the seafood, vegetables, and egg into small pieces.Lay out a sheet of nori on a sushi mat, spread rice on top, and add toppings.Roll the sushi tightly with the mat and cut into bite-size pieces.",
           "rating":4.6,
 
-          "ingredients": ["Pasta",
-          "Pesto Sauce",
-          "Cherry Tomatoes",
-          "Garlic",
-          "Parmesan Cheese"]
+          "ingredients": ["Sushi rice",
+          "Rice vinegar",
+          "Sugar",
+          "Sugar",
+          "Nori sheets ",
+        "Fresh seafood",
+    "Vegetables"]
         },
         {
-          "name": "Grilled bruschetta with mozzarella and prosciutto",
-          "description": "Giovanni's take on this classic Italian appetizer features grilled bread topped with melted mozzarella cheese and crispy prosciutto.",
-          "image": "https://farm4.static.flickr.com/3582/5698166456_0c66a48c8d.jpg",
+          "name": "Ramen",
+          "description": "Ramen is a popular noodle soup dish that originated in Japan. It typically consists of wheat noodles in a flavorful broth, with toppings such as sliced pork, bamboo shoots, and soft-boiled eggs.",
+          "image": "https://images.pexels.com/photos/4224208/pexels-photo-4224208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "rating":4.9,
-          "cooking_method":"Slice a baguette into 1/2 inch thick slices and brush with olive oil.Grill the bread slices for 1-2 minutes on each side until lightly toasted and grill marks appear...",
-          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+          "cooking_method":"Cook the ramen noodles according to package instructions.Heat the broth in a pot and add soy sauce, mirin, and sake to taste.Cook the pork belly or sliced pork and bamboo shoots in the broth.Place the cooked noodles in a bowl and pour the broth over them.Top with soft-boiled eggs, nori sheets, and green onions. ",
+          "ingredients":[    "Ramen noodles",    "Chicken or pork broth",    "Soy sauce",    "Mirin (sweet rice wine)",    "Bamboo shoots"]
 
         },
         {
-          "name": "Tiramisu",
-          "description": "Giovanni's version of this classic Italian dessert features layers of fluffy mascarpone cream, ladyfingers soaked in espresso, and a dusting of cocoa powder.",
-          "image": "https://www.dominosugar.com/sites/dominosugar_com/files/2022-08/Tiramisu-Crave_1570_Description_600x400.jpg",
+          "name": "Tempura",
+          "description": " Tempura is a Japanese dish of battered and deep-fried seafood, vegetables, or other ingredients. The batter is light and crispy, and the dish is often served as an appetizer or side dish.",
+          "image": "https://images.pexels.com/photos/3345727/pexels-photo-3345727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "rating":4.2,
           "cooking_method":"In a heatproof bowl, whisk together egg yolks and sugar until the mixture becomes pale and creamy. Place the bowl over a pot of simmering water and add milk to the bowl. Cook the mixture... ",
-          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+          "ingredients":[    "Shrimp, fish, or vegetables ",    "Tempura flour or cornstarch",    "Cold water",    "Egg yolk",    "Vegetable oil for frying"]
         }
       ],
     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae ultrices risus. Sed euismod mi sit amet volutpat elementum."
@@ -84,34 +88,36 @@
     "experience": "15 years",
     "recipes": [
         {
-          "name": "Pesto pasta with cherry tomatoes",
-          "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
-          "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
-          "cooking_method":"Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+          "name": "Sushi",
+          "description": "Sushi is a traditional Japanese dish made with vinegared rice and various seafood, vegetables, or egg toppings. It is typically served with soy sauce, wasabi, and pickled ginger.",
+          "image": "https://images.pexels.com/photos/7245458/pexels-photo-7245458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "cooking_method":"Rinse the sushi rice and cook it with water in a rice cooker or on the stove.Mix rice vinegar, sugar, and salt to make the seasoning for the rice.Cut the seafood, vegetables, and egg into small pieces.Lay out a sheet of nori on a sushi mat, spread rice on top, and add toppings.Roll the sushi tightly with the mat and cut into bite-size pieces.",
           "rating":4.6,
 
-          "ingredients": ["Pasta",
-          "Pesto Sauce",
-          "Cherry Tomatoes",
-          "Garlic",
-          "Parmesan Cheese"]
+          "ingredients": ["Sushi rice",
+          "Rice vinegar",
+          "Sugar",
+          "Sugar",
+          "Nori sheets ",
+        "Fresh seafood",
+    "Vegetables"]
         },
         {
-          "name": "Grilled bruschetta with mozzarella and prosciutto",
-          "description": "Giovanni's take on this classic Italian appetizer features grilled bread topped with melted mozzarella cheese and crispy prosciutto.",
-          "image": "https://farm4.static.flickr.com/3582/5698166456_0c66a48c8d.jpg",
+          "name": "Ramen",
+          "description": "Ramen is a popular noodle soup dish that originated in Japan. It typically consists of wheat noodles in a flavorful broth, with toppings such as sliced pork, bamboo shoots, and soft-boiled eggs.",
+          "image": "https://images.pexels.com/photos/4224208/pexels-photo-4224208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "rating":4.9,
-          "cooking_method":"Slice a baguette into 1/2 inch thick slices and brush with olive oil.Grill the bread slices for 1-2 minutes on each side until lightly toasted and grill marks appear...",
-          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+          "cooking_method":"Cook the ramen noodles according to package instructions.Heat the broth in a pot and add soy sauce, mirin, and sake to taste.Cook the pork belly or sliced pork and bamboo shoots in the broth.Place the cooked noodles in a bowl and pour the broth over them.Top with soft-boiled eggs, nori sheets, and green onions. ",
+          "ingredients":[    "Ramen noodles",    "Chicken or pork broth",    "Soy sauce",    "Mirin (sweet rice wine)",    "Bamboo shoots"]
 
         },
         {
-          "name": "Tiramisu",
-          "description": "Giovanni's version of this classic Italian dessert features layers of fluffy mascarpone cream, ladyfingers soaked in espresso, and a dusting of cocoa powder.",
-          "image": "https://www.dominosugar.com/sites/dominosugar_com/files/2022-08/Tiramisu-Crave_1570_Description_600x400.jpg",
+          "name": "Tempura",
+          "description": " Tempura is a Japanese dish of battered and deep-fried seafood, vegetables, or other ingredients. The batter is light and crispy, and the dish is often served as an appetizer or side dish.",
+          "image": "https://images.pexels.com/photos/3345727/pexels-photo-3345727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "rating":4.2,
           "cooking_method":"In a heatproof bowl, whisk together egg yolks and sugar until the mixture becomes pale and creamy. Place the bowl over a pot of simmering water and add milk to the bowl. Cook the mixture... ",
-          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+          "ingredients":[    "Shrimp, fish, or vegetables ",    "Tempura flour or cornstarch",    "Cold water",    "Egg yolk",    "Vegetable oil for frying"]
         }
       ],
     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae ultrices risus. Sed euismod mi sit amet volutpat elementum."
@@ -123,34 +129,36 @@
     "experience": "3 years",
     "recipes": [
         {
-          "name": "Pesto pasta with cherry tomatoes",
-          "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
-          "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
-          "cooking_method":"Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+          "name": "Sushi",
+          "description": "Sushi is a traditional Japanese dish made with vinegared rice and various seafood, vegetables, or egg toppings. It is typically served with soy sauce, wasabi, and pickled ginger.",
+          "image": "https://images.pexels.com/photos/7245458/pexels-photo-7245458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "cooking_method":"Rinse the sushi rice and cook it with water in a rice cooker or on the stove.Mix rice vinegar, sugar, and salt to make the seasoning for the rice.Cut the seafood, vegetables, and egg into small pieces.Lay out a sheet of nori on a sushi mat, spread rice on top, and add toppings.Roll the sushi tightly with the mat and cut into bite-size pieces.",
           "rating":4.6,
 
-          "ingredients": ["Pasta",
-          "Pesto Sauce",
-          "Cherry Tomatoes",
-          "Garlic",
-          "Parmesan Cheese"]
+          "ingredients": ["Sushi rice",
+          "Rice vinegar",
+          "Sugar",
+          "Sugar",
+          "Nori sheets ",
+        "Fresh seafood",
+    "Vegetables"]
         },
         {
-          "name": "Grilled bruschetta with mozzarella and prosciutto",
-          "description": "Giovanni's take on this classic Italian appetizer features grilled bread topped with melted mozzarella cheese and crispy prosciutto.",
-          "image": "https://farm4.static.flickr.com/3582/5698166456_0c66a48c8d.jpg",
+          "name": "Ramen",
+          "description": "Ramen is a popular noodle soup dish that originated in Japan. It typically consists of wheat noodles in a flavorful broth, with toppings such as sliced pork, bamboo shoots, and soft-boiled eggs.",
+          "image": "https://images.pexels.com/photos/4224208/pexels-photo-4224208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "rating":4.9,
-          "cooking_method":"Slice a baguette into 1/2 inch thick slices and brush with olive oil.Grill the bread slices for 1-2 minutes on each side until lightly toasted and grill marks appear...",
-          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+          "cooking_method":"Cook the ramen noodles according to package instructions.Heat the broth in a pot and add soy sauce, mirin, and sake to taste.Cook the pork belly or sliced pork and bamboo shoots in the broth.Place the cooked noodles in a bowl and pour the broth over them.Top with soft-boiled eggs, nori sheets, and green onions. ",
+          "ingredients":[    "Ramen noodles",    "Chicken or pork broth",    "Soy sauce",    "Mirin (sweet rice wine)",    "Bamboo shoots"]
 
         },
         {
-          "name": "Tiramisu",
-          "description": "Giovanni's version of this classic Italian dessert features layers of fluffy mascarpone cream, ladyfingers soaked in espresso, and a dusting of cocoa powder.",
-          "image": "https://www.dominosugar.com/sites/dominosugar_com/files/2022-08/Tiramisu-Crave_1570_Description_600x400.jpg",
+          "name": "Tempura",
+          "description": " Tempura is a Japanese dish of battered and deep-fried seafood, vegetables, or other ingredients. The batter is light and crispy, and the dish is often served as an appetizer or side dish.",
+          "image": "https://images.pexels.com/photos/3345727/pexels-photo-3345727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "rating":4.2,
           "cooking_method":"In a heatproof bowl, whisk together egg yolks and sugar until the mixture becomes pale and creamy. Place the bowl over a pot of simmering water and add milk to the bowl. Cook the mixture... ",
-          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+          "ingredients":[    "Shrimp, fish, or vegetables ",    "Tempura flour or cornstarch",    "Cold water",    "Egg yolk",    "Vegetable oil for frying"]
         }
       ],
     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae ultrices risus. Sed euismod mi sit amet volutpat elementum."
@@ -162,34 +170,36 @@
     "experience": "7 years",
     "recipes": [
         {
-          "name": "Pesto pasta with cherry tomatoes",
-          "description": "This classic Italian dish is elevated by Giovanni's homemade pesto, made with fresh basil, garlic, and pine nuts. Topped with juicy cherry tomatoes and grated Parmesan cheese, this dish is simple yet flavorful.",
-          "image": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
-          "cooking_method":"Cook the pasta according to package instructions.While the pasta is cooking, mix together pesto sauce, minced garlic, salt, and pepper in a large bowl.Add the cooked pasta to the bowl with the pesto sauce and toss until evenly coated.",
+          "name": "Sushi",
+          "description": "Sushi is a traditional Japanese dish made with vinegared rice and various seafood, vegetables, or egg toppings. It is typically served with soy sauce, wasabi, and pickled ginger.",
+          "image": "https://images.pexels.com/photos/7245458/pexels-photo-7245458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "cooking_method":"Rinse the sushi rice and cook it with water in a rice cooker or on the stove.Mix rice vinegar, sugar, and salt to make the seasoning for the rice.Cut the seafood, vegetables, and egg into small pieces.Lay out a sheet of nori on a sushi mat, spread rice on top, and add toppings.Roll the sushi tightly with the mat and cut into bite-size pieces.",
           "rating":4.6,
 
-          "ingredients": ["Pasta",
-          "Pesto Sauce",
-          "Cherry Tomatoes",
-          "Garlic",
-          "Parmesan Cheese"]
+          "ingredients": ["Sushi rice",
+          "Rice vinegar",
+          "Sugar",
+          "Sugar",
+          "Nori sheets ",
+        "Fresh seafood",
+    "Vegetables"]
         },
         {
-          "name": "Grilled bruschetta with mozzarella and prosciutto",
-          "description": "Giovanni's take on this classic Italian appetizer features grilled bread topped with melted mozzarella cheese and crispy prosciutto.",
-          "image": "https://farm4.static.flickr.com/3582/5698166456_0c66a48c8d.jpg",
+          "name": "Ramen",
+          "description": "Ramen is a popular noodle soup dish that originated in Japan. It typically consists of wheat noodles in a flavorful broth, with toppings such as sliced pork, bamboo shoots, and soft-boiled eggs.",
+          "image": "https://images.pexels.com/photos/4224208/pexels-photo-4224208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "rating":4.9,
-          "cooking_method":"Slice a baguette into 1/2 inch thick slices and brush with olive oil.Grill the bread slices for 1-2 minutes on each side until lightly toasted and grill marks appear...",
-          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+          "cooking_method":"Cook the ramen noodles according to package instructions.Heat the broth in a pot and add soy sauce, mirin, and sake to taste.Cook the pork belly or sliced pork and bamboo shoots in the broth.Place the cooked noodles in a bowl and pour the broth over them.Top with soft-boiled eggs, nori sheets, and green onions. ",
+          "ingredients":[    "Ramen noodles",    "Chicken or pork broth",    "Soy sauce",    "Mirin (sweet rice wine)",    "Bamboo shoots"]
 
         },
         {
-          "name": "Tiramisu",
-          "description": "Giovanni's version of this classic Italian dessert features layers of fluffy mascarpone cream, ladyfingers soaked in espresso, and a dusting of cocoa powder.",
-          "image": "https://www.dominosugar.com/sites/dominosugar_com/files/2022-08/Tiramisu-Crave_1570_Description_600x400.jpg",
+          "name": "Tempura",
+          "description": " Tempura is a Japanese dish of battered and deep-fried seafood, vegetables, or other ingredients. The batter is light and crispy, and the dish is often served as an appetizer or side dish.",
+          "image": "https://images.pexels.com/photos/3345727/pexels-photo-3345727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "rating":4.2,
           "cooking_method":"In a heatproof bowl, whisk together egg yolks and sugar until the mixture becomes pale and creamy. Place the bowl over a pot of simmering water and add milk to the bowl. Cook the mixture... ",
-          "ingredients":[    "Baguette",    "Mozzarella Cheese",    "Prosciutto",    "Tomatoes",    "Fresh Basil"]
+          "ingredients":[    "Shrimp, fish, or vegetables ",    "Tempura flour or cornstarch",    "Cold water",    "Egg yolk",    "Vegetable oil for frying"]
         }
       ],
     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae ultrices risus. Sed euismod mi sit amet volutpat elementum."
@@ -199,7 +209,40 @@
     "img": "https://images.pexels.com/photos/12193822/pexels-photo-12193822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "name": "Lisa Kim",
     "experience": "2 years",
-    "recipes": ["Recipe 16", "Recipe 17", "Recipe 18"],
+    "recipes": [
+        {
+          "name": "Sushi",
+          "description": "Sushi is a traditional Japanese dish made with vinegared rice and various seafood, vegetables, or egg toppings. It is typically served with soy sauce, wasabi, and pickled ginger.",
+          "image": "https://images.pexels.com/photos/7245458/pexels-photo-7245458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "cooking_method":"Rinse the sushi rice and cook it with water in a rice cooker or on the stove.Mix rice vinegar, sugar, and salt to make the seasoning for the rice.Cut the seafood, vegetables, and egg into small pieces.Lay out a sheet of nori on a sushi mat, spread rice on top, and add toppings.Roll the sushi tightly with the mat and cut into bite-size pieces.",
+          "rating":4.6,
+
+          "ingredients": ["Sushi rice",
+          "Rice vinegar",
+          "Sugar",
+          "Sugar",
+          "Nori sheets ",
+        "Fresh seafood",
+    "Vegetables"]
+        },
+        {
+          "name": "Yakitori",
+          "description": "Yakitori is a popular noodle soup dish that originated in Japan. It typically consists of wheat noodles in a flavorful broth, with toppings such as sliced pork, bamboo shoots, and soft-boiled eggs.",
+          "image": "https://images.pexels.com/photos/7245479/pexels-photo-7245479.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "rating":4.9,
+          "cooking_method":"Cook the ramen noodles according to package instructions.Heat the broth in a pot and add soy sauce, mirin, and sake to taste.Cook the pork belly or sliced pork and bamboo shoots in the broth.Place the cooked noodles in a bowl and pour the broth over them.Top with soft-boiled eggs, nori sheets, and green onions. ",
+          "ingredients":[    "Ramen noodles",    "Chicken or pork broth",    "Soy sauce",    "Mirin (sweet rice wine)",    "Bamboo shoots"]
+
+        },
+        {
+          "name": "Tempura",
+          "description": " Tempura is a Japanese dish of battered and deep-fried seafood, vegetables, or other ingredients. The batter is light and crispy, and the dish is often served as an appetizer or side dish.",
+          "image": "https://images.pexels.com/photos/3345727/pexels-photo-3345727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "rating":4.2,
+          "cooking_method":"In a heatproof bowl, whisk together egg yolks and sugar until the mixture becomes pale and creamy. Place the bowl over a pot of simmering water and add milk to the bowl. Cook the mixture... ",
+          "ingredients":[    "Shrimp, fish, or vegetables ",    "Tempura flour or cornstarch",    "Cold water",    "Egg yolk",    "Vegetable oil for frying"]
+        }
+      ],
     "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae ultrices risus. Sed euismod mi sit amet volutpat elementum."
   }
 ]
