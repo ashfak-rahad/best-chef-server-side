@@ -4,6 +4,7 @@
     "img": "https://images.pexels.com/photos/3983708/pexels-photo-3983708.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "name": "John Doe",
     "experience": "10 years",
+    "like":677,
     "recipes": [
         {
           "name": "Sushi",
@@ -45,6 +46,7 @@
     "img": "https://images.pexels.com/photos/9025069/pexels-photo-9025069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "name": "Jane Smith",
     "experience": "5 years",
+    "like":1687,
     "recipes": [
         {
           "name": "Sushi",
@@ -83,9 +85,10 @@
   },
   {
     "id": 3,
-    "img": "https://images.pexels.com/photos/9025077/pexels-photo-9025077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "img": "https://images.pexels.com/photos/8951146/pexels-photo-8951146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "name": "Bob Johnson",
     "experience": "15 years",
+    "like":1577,
     "recipes": [
         {
           "name": "Sushi",
@@ -124,9 +127,10 @@
   },
   {
     "id": 4,
-    "img": "https://images.pexels.com/photos/9025077/pexels-photo-9025077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "img": "https://images.pexels.com/photos/7416286/pexels-photo-7416286.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "name": "Alice Lee",
     "experience": "3 years",
+    "like":1579,
     "recipes": [
         {
           "name": "Sushi",
@@ -165,9 +169,10 @@
   },
   {
     "id": 5,
-    "img": "https://images.pexels.com/photos/12193822/pexels-photo-12193822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "img": "https://images.pexels.com/photos/8793009/pexels-photo-8793009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "name": "Mike Brown",
     "experience": "7 years",
+    "like":1100,
     "recipes": [
         {
           "name": "Sushi",
@@ -206,9 +211,10 @@
   },
   {
     "id": 6,
-    "img": "https://images.pexels.com/photos/12193822/pexels-photo-12193822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "img": "https://images.pexels.com/photos/4253312/pexels-photo-4253312.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "name": "Lisa Kim",
     "experience": "2 years",
+    "like":1576,
     "recipes": [
         {
           "name": "Sushi",
